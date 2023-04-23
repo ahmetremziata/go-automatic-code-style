@@ -1,1 +1,0 @@
-# go-automatic-code-style
